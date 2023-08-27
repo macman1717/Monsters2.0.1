@@ -8,8 +8,7 @@ public class MonsterTester {
         System.out.println(enemy2.form);
         enemy2.turnMan();
         System.out.println(enemy2.form);
-        //typo for moveArround intentional
-        enemy2.moveArround();
+        enemy2.moveAround();
 
         SkeletonDog dogFriend = new SkeletonDog();
         System.out.println(dogFriend.status);

@@ -5,7 +5,7 @@ public class Monster {
     String loot = "15 gold";
 
 
-    void moveArround(){
+    void moveAround(){
         //moves around the video game
     }
     void attack(){
